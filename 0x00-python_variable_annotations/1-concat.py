@@ -4,5 +4,6 @@
 
 
 def concat(str1: str, str2: str) -> str:
-    # concatenates two string
+    ''' concatenates two string
+    '''
     return str1 + str2
